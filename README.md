@@ -4,7 +4,6 @@ This is a demo code implementation for **Nonlinear RISE based Integral Reinforce
 We proposed two Reinforcement Learning (RL) based control frames including On Policy and Off Policy based Robust Integral of the Sign of the Error (RISE) after employing the sliding variable to reduce the order of a BT dynamic model, which makes it easier to obtain control designs. We compare our proposed with the existing controller and the results demonstrate the effectiveness of the proposed control frameworks.
 - Code for Off Policy based control: [Off-Policy]()
 - Code for On Policy based control: [On-Policy]()
-The code will be updated here soon.
 
 # Methods
 
