@@ -1,5 +1,5 @@
 # Introduction 
-This is a official code implementation for **[Nonlinear RISE based Integral Reinforcement Learning algorithms for perturbed Bilateral Teleoperators with variable time delay (Neurocomputing Journal)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503535).** 
+This is a official code implementation for **[Nonlinear RISE based Integral Reinforcement Learning algorithms for perturbed Bilateral Teleoperators with variable time delay (Neurocomputing Journal)](https://www.sciencedirect.com/science/article/abs/pii/S0925231224011263).** 
 
 We proposed two Reinforcement Learning (RL) based control frames including On Policy and Off Policy based Robust Integral of the Sign of the Error (RISE) after employing the sliding variable to reduce the order of a BT dynamic model, which makes it easier to obtain control designs. We compare our proposed with the existing controller and the results demonstrate the effectiveness of the proposed control frameworks.
 - Code for Off Policy based control: [Off-Policy](https://github.com/ZQuang2202/Reinforcement-learning-based-control-for-BTs/tree/main/Off_Policy)
